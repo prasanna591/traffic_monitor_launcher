@@ -1,5 +1,5 @@
 @echo off
-title PSM Labs - Drone Traffic AI
+title Nevar System Drone Traffic AI
 echo Starting Drone Traffic Analysis...
 echo Please wait, this may take a minute on first launch.
 echo.

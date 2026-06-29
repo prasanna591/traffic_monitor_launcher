@@ -228,7 +228,7 @@ def draw_label(frame, text, pos, color, bg=(20, 20, 20)):
 # ─────────────────────────────────────────────
 # Streamlit Page Config
 # ─────────────────────────────────────────────
-st.set_page_config(layout="wide", page_title="PSM Labs · Drone Traffic AI")
+st.set_page_config(layout="wide", page_title="Nevar Systems · Drone Traffic AI")
 
 st.markdown("""
 <style>
@@ -240,7 +240,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🚁 Drone Traffic Analysis — PSM Labs")
+st.title("🚁 Drone Traffic Analysis — Nevar Systems")
 st.markdown("*Multi-class detection · Speed estimation · Direction tracking · Density heatmap*")
 st.markdown("---")
 
